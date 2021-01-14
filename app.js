@@ -27,6 +27,12 @@ class MessageService {
 
     return message;
   }
+
+  // You can add any of the methods here: https://docs.feathersjs.com/guides/basics/services.html#service-methods
+  // async remove (id) {
+  //   this.messages.splice(id,1);
+  //   return true;
+  // }
 }
 
 // Creates an ExpressJS compatible Feathers application
