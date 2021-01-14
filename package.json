@@ -1,0 +1,22 @@
+{
+  "name": "feathers-demo-3",
+  "version": "1.0.0",
+  "description": "A demo of feathers js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicesoftware/vice-feathers-demo.git"
+  },
+  "author": "Ryan Vice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicesoftware/vice-feathers-demo/issues"
+  },
+  "homepage": "https://github.com/vicesoftware/vice-feathers-demo#readme",
+  "dependencies": {
+    "@feathersjs/feathers": "^4.5.11"
+  }
+}
